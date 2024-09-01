@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724450096 source:c:\users\noteb\onedrive\documentos\code blocks\tarifacarro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
